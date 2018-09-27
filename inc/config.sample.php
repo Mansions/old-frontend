@@ -8,9 +8,9 @@ define('DATABASE_WHAT', 'host');		// "host" or unix socket path
 
 // Server urls, no slash
 $URL = [
-	'avatar' => 'https://a.ripple.moe',
-	'server' => 'https://ripple.moe',
-	'bancho' => 'http://c.ripple.moe',
+	'avatar' => 'https://a.themansions.nl',
+	'server' => 'https://themansions.nl',
+	'bancho' => 'http://c.themansions.nl',
 	'scores' => 'http://127.0.0.1:5002'
 ];
 
